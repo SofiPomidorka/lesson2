@@ -1,0 +1,36 @@
+.container {
+    background: url(../images/track-bg-1.png);
+    background-size: cover;
+    min-height: 100vh;
+    padding: 170px 0 50px 0;
+}
+/*track*/
+.track-content {
+    width: 593px;
+    margin: 0 auto;
+}
+.track-card{
+    width: 100%;
+    border-radius: 18px;
+    box-shadow: 0 7px 20px 0 #0000002E;
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.96);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+}
+.track-title{
+    font-size: 20px;
+    line-height: 100%;
+    font-weight: bold;
+    border-bottom: 1px solid #EEEEEE;
+    padding: 20px;
+}
+.track-action {
+    padding: 20px;
+}
+.track-button{
+    width: 100%;
+    height: 50px;
+}
+.track-field{
+    margin-bottom: 10px;
+}
